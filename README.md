@@ -1,2 +1,2 @@
 # leetcodeSolutions
-Solutions to some exercise of leetcode.
+Solutions to some exercises of leetcode. I am using leetcode in an effort to assist my experimentation with programming languages / tools. Mainly python solutions. These solutions are based on my knowledge at the time of solving each exercise and are far from optimal in time and / or space (well, one or two might be optimal or close to optimal). My intention is education and not competition.
